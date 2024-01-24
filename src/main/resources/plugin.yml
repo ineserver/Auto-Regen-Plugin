@@ -1,0 +1,5 @@
+name: Auto_Regen_Plugin
+version: '${project.version}'
+main: net._1necat.auto_regen_plugin.AutoRegenPlugin
+api-version: '1.20'
+softdepend: ['Multiverse-Core']
